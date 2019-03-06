@@ -1,2 +1,2 @@
 TT  	Hoten 	MaSV 	Ngaysinh   	phone
-1	a	s	2		09990
+1	    Vương Thái Hữu 155D4802010001 09/08/1997  0981444797
